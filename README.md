@@ -62,4 +62,4 @@ Run the build on Windows.
 - `requirements.txt` — interface dependencies.
 - `gerar_executavel_windows.bat` — Windows packaging.
 
-Source — *Modelos y correlaciones físicas candidatas para el modelado híbrido (física + ML) de bombas operando como turbinas (PAT)* [Candidate physical models and correlations for hybrid modeling (physics + ML) of pumps operating as turbines (PAT)], Sebastián Valencia et al., September 2026. Equations (1)–(6), sections 2.1 and 2.2.
+Source — *Modelos y correlaciones físicas candidatas para el modelado híbrido (física + ML) de bombas operando como turbinas (PAT)* [Candidate physical models and correlations for hybrid modeling (physics + ML) of pumps operating as turbines (PAT)], Sebastián Valencia et al., September 2026. Equations (1)-(6), sections 2.1 and 2.2.
