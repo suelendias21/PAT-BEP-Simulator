@@ -1,4 +1,4 @@
-# PAT — Desktop BEP Simulator (Section 2.2)
+# PAT - Desktop BEP Simulator (Section 2.2)
 
 This first version of the simulator uses correlations to estimate the turbine-mode best efficiency point (BEP) from the pump-mode BEP. It uses **PySide6** for the desktop interface, Matplotlib for charts, and a separate calculation module, `models.py`.
 
